@@ -1,0 +1,30 @@
+body{
+    background-color: #0d3349;
+}
+
+.jumbotron{
+    background-color: linen;
+}
+
+h1{
+    font-family: fantasy;
+    text-align: center;
+}
+
+.well{
+
+}
+
+.whitetxt {
+    color: #ffffff;
+}
+
+input {
+    color: #000000
+}
+
+.button{
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
